@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneDialer</string>
+    <string name="input_hint">请输入电话号码</string>
+    <string name="btn_call">拨打号码</string>
+</resources>
